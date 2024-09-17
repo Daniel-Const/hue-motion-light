@@ -1,5 +1,18 @@
 # Phillips Hue Motion Trigger
 
+## Hardware setup
+
+### Microcontroller
+
+- ESP32-WROOM-32
+- PIR motion sensor
+
+![alt text](./public/diagram.png)
+
+### Lights
+
+- Phillips Hue light bars
+
 ## Setup the python environment
 
 ```bash
